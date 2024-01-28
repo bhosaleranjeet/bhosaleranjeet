@@ -16,4 +16,4 @@
 - [LinkedIn](www.linkedin.com/in/bhosaleranjeet)
 - [YouTube](www.youtube.com/@vector_rj)
 
-Let's create and innovate together! 🌈✨
+Let's create and innovate together! ✨
