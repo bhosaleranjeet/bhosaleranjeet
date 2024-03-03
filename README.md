@@ -1,12 +1,13 @@
 ### Hi there! 👋 I'm Ranjeet Bhosale, a passionate student and aspiring web developer.
 
-🚀 **Skills:** HTML, CSS, JavaScript, PHP, SQL, SDLC, RDBMS, Java 
+🚀 **Skills:** HTML, CSS, JavaScript, ReactJS, PHP, SQL, RDBMS, Java 
 
 🌐 **Focus:** Web Development
 
 🌟 **Projects:**
 - [Personal Portfolio](): Showcasing my skills and projects.
 - [Product Portfolio Website](): Highlighting products in a sleek and interactive way for a startup.
+- [React TODO List](): A simple todo list application built with React.
 
 🎥 **Hobbies:** When I'm not coding, you'll find me exploring the world of YouTube, diving into cinematography, and perfecting my video editing skills.
 
