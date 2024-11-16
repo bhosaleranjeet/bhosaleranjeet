@@ -2,7 +2,7 @@
 
 🚀 **Skills:** HTML, CSS, JavaScript, ReactJS, PHP, SQL, RDBMS, Java 
 
-🌐 **Focus:** Automation Development
+🌐 **Focus:** Automation Development Exoert
 
 🌟 **Projects:**
 - [Personal Portfolio](): Showcasing my skills and projects.
