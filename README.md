@@ -2,7 +2,7 @@
 
 🚀 **Skills:** HTML, CSS, JavaScript, ReactJS, PHP, SQL, RDBMS, Java 
 
-🌐 **Focus:** Web Development
+🌐 **Focus:** Development
 
 🌟 **Projects:**
 - [Personal Portfolio](): Showcasing my skills and projects.
